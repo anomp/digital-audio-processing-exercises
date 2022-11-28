@@ -10,6 +10,7 @@ In order to provide an interactive presentation of audio processing tools, the e
 1. Install Jupyter Notebooks by running `pip install notebook`
 1. Clone the current repository.
 1. Cd to the repository directory and run `pip install -r requirements.txt`
+1. Run `jupyter notebook`
 
 
 ## TODO
